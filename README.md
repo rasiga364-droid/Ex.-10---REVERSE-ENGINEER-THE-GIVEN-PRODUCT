@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Output](i1.png)
 
 ### Output:
+![Output](i2.png)
 
-
-### Name:
-### Register Number:
+### Name:S RASIGA
+### Register Number:212225220081
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
